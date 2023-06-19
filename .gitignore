@@ -2,3 +2,6 @@ shape_predictor_68_face_landmarks.dat
 face_cut
 01.avi
 .ipynb_checkpoints
+lips_cut
+02.avi
+.DS_Store
